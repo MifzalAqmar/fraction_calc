@@ -1,6 +1,6 @@
 # fraction_calc
 
-A new Flutter project.
+STIW2044 lab 1 Fractional calculator
 
 ## Getting Started
 
